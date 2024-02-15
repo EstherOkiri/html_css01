@@ -51,3 +51,8 @@ th{
     color: sienna;
     height: 100%;
 }
+.programs{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
